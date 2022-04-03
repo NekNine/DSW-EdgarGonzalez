@@ -22,6 +22,17 @@ header{
     box-sizing: border-box;
 }
 
+.Logo{
+    width: 100px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.MiTitulo{
+    margin-right: 1000px ;
+}
+
 .navegar{
     background: #fff;
     width: 100%;
