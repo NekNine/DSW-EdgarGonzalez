@@ -170,6 +170,18 @@ aside{
     border-radius: 20px;
 }
 
+.Autor{
+    max-width: 1350px;
+    min-height: 50px;
+    background: #fff;
+    margin: 0 auto;
+    padding: 30px   50px;
+    color: rgb(0, 0, 0);
+    font-family:'Open sans';
+    text-decoration: none;
+    border-radius: 20px;
+}
+
 footer{
     clear: both;
     max-width: 1500px;
